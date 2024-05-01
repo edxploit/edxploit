@@ -1,6 +1,6 @@
-### Hi, feel free to look around and maybe fork a few repos too. 
-
 ![dino](https://github.com/edxploit/edxploit/assets/43484396/5a101dcf-3373-45bc-a71f-df5af9a41b42)
+
+# Hi, feel free to look around and maybe fork a few repos too. 
 
 
 <!--
