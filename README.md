@@ -2,7 +2,7 @@
 
 # Hi, welcome to my GitHub. 
 ## Feel free to look around and download, clone or maybe fork a repo or two. 
-### I don't serve requests at the moment. 
+### I don't serve requests. 
 
 
 <!--
