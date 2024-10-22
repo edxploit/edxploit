@@ -1,8 +1,5 @@
 ![dino](https://github.com/edxploit/edxploit/assets/43484396/5a101dcf-3373-45bc-a71f-df5af9a41b42)
 
-# Hi, welcome to my GitHub. 
-## Feel free to look around and download, clone or maybe fork a repo or two. 
-
 
 <!--
 **edxploit/edxploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
